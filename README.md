@@ -35,7 +35,7 @@ Pressure: 1014.0 hPa
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather_sensor_data_extractor.git
+   git clone https://github.com/NtandoMgo/weather_sensor_data_extractor.git
    ```
 2. Navigate to the directory:
    ```bash
